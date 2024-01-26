@@ -1,0 +1,1 @@
+this News app is a user-friendly Android application that provides a seamless and personalized news browsing experience. Stay informed about the latest news and trends in various categories with our app. Whether you're interested in breaking news, technology, sports, or entertainment, we've got you covered.
